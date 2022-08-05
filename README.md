@@ -7,6 +7,7 @@ Write an ETL Function to Read Three Data Files
 Extract and Transform the Wikipedia Data
 ## Deliverable 3 
 Extract and Transform the Kaggle data
-Deliverable 4 Create the Movie Database
+## Deliverable 4 
+Create the Movie Database
 We will extract scraped Wikipedia data stored as JSON and the Kaggle data stored in CSV in the Extract phase. In the Transform phase, we will utilize Python and Pandas in a Jupyter Notebook to explore, document, and perform our data transformation. After the data is transformed into a consistent structure, it's loaded into the PostgreSQL database. Finally, we will create multiple functions to load files, clean the files loaded, merge the cleaned data, and load the merged data to its data target. This function will form a data pipeline that can be easily modified and reused for future ETL projects.
 
